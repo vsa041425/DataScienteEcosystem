@@ -1,1 +1,1 @@
-# DataScienteEcosystem
+# DataScienceEcosystem
